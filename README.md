@@ -16,3 +16,5 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 ![Screenshot_1703952807](https://github.com/Mohvo/personal-information/assets/128937393/837f5fe3-ea1d-48ec-85ad-2193f1760f79) [20]
 
+<img width="720" alt="Screenshot_1703967990" src="https://github.com/Mohvo/personal-information/assets/128937393/59017b6b-bcf0-4acd-abfe-40ecfcf1e610">
+
